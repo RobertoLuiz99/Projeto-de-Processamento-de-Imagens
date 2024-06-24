@@ -10,8 +10,8 @@
 # Projeto Final de Processamento de Imagens
 
 ## Equipe
-- Luiz Henrique da Silva Araujo 
-- Roberto 
+- Luiz Henrique da Silva Araujo 2348101
+- Roberto Luiz Pereira Raposo 2350653
 - Ricardo Takeshi Outi Miyamoto 2348144
 
 
