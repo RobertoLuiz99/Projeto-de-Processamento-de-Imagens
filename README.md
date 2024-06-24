@@ -6,7 +6,7 @@
 - [Descrição do Descritor Implementado](#descrição-do-Descritor-Implementado)
 - [Repositório do projeto](#Repositório-do-projeto)
 - [Classificador e Acurácia](#Classificador-e-Acurácia)
-- [Instruções de Uso](#Instruções-de-Uso)
+- [Instalação](#Instalação)
 
 
 # Projeto Final de Processamento de Imagens
@@ -113,14 +113,13 @@ dataset/
 
 Cada pasta contém imagens em escala de cinza para a respectiva classe.
 
-# Instruções de Uso
+# Instalação
 
 
 1. Clone o repositório:
 
     ```bash
     git clone https://github.com/RobertoLuiz99/Projeto-de-Processamento-de-Imagens.git
-    cd covid-classificacao
     ```
 
 2. Instale as dependências necessárias:
@@ -129,7 +128,7 @@ Cada pasta contém imagens em escala de cinza para a respectiva classe.
     pip install opencv-python numpy scikit-image scikit-learn
     ```
 
-## Uso
+## Instruções de Uso
 
 1. Coloque seu conjunto de dados no diretório `dataset` seguindo a estrutura mencionada acima.
 
