@@ -4,7 +4,9 @@
 - [Equipe](#equipe)
 - [Introdução](#introdução)
 - [Descrição do Descritor Implementado](#descrição-do-Descritor-Implementado)
-
+- [Repositório do projeto](#Repositório-do-projeto)
+- [Classificador e Acurácia](#Classificador-e-Acurácia)
+- [Instruções de Uso](#Instruções-de-Uso)
 
 
 # Projeto Final de Processamento de Imagens
