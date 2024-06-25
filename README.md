@@ -23,6 +23,8 @@
 
 Este projeto demonstra um pipeline simples de aprendizado de máquina para classificar imagens de COVID-19 usando Padrões Binários Locais (LBP) para extração de características e uma Máquina de Vetores de Suporte (SVM) para classificação.
 
+## Vídeo de Apresentação
+> https://www.youtube.com/watch?v=aJ6TnlFmTvc
 
 # Descrição do Descritor Implementado
 
